@@ -1,0 +1,16 @@
+{
+    "recommendations": [
+        "mhutchie.git-graph",
+        "donjayamanne.githistory",
+        "eamodio.gitlens",
+        "ms-azuretools.vscode-docker",
+        "streetsidesoftware.code-spell-checker",
+        "mads-hartmann.bash-ide-vscode",
+        "yzhang.markdown-all-in-one",
+        "DavidAnson.vscode-markdownlint",
+        "foxundermoon.shell-format",
+        "timonwong.shellcheck",
+        "rogalmic.bash-debug",
+        "Gruntfuggly.todo-tree",
+    ]
+}

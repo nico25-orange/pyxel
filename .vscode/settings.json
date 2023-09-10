@@ -1,0 +1,24 @@
+{
+    "files.eol": "\n",
+    "files.insertFinalNewline": true,
+    "editor.fontFamily": "'Fira Code', Hasklig, Consolas, 'Courier New', monospace",
+    "editor.renderLineHighlight": "all",
+    "editor.renderControlCharacters": true,
+    // "editor.cursorStyle": "block",
+    "editor.cursorBlinking": "smooth",
+    "editor.bracketPairColorization.enabled": true,
+    "cSpell.dictionaries": [
+        "pyxel",
+
+    ],
+    "cSpell.words": [
+        "pyxel",
+    ],
+    "files.exclude": {
+        "server/pyodide/*": true,
+    },
+    "rust-analyzer.linkedProjects": [
+        "crates/pyxel-core/Cargo.toml",
+        "crates/pyxel-extension/Cargo.toml",
+    ],
+}
