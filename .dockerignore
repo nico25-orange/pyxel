@@ -1,0 +1,35 @@
+# Common
+README.md
+CHANGELOG.md
+
+# Git
+.git
+.gitignore
+.gitattributes
+.githooks
+
+# Docker
+Dockerfile
+docker-compose.yml
+.docker
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyCharm
+.idea
+
